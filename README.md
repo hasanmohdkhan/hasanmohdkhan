@@ -2,8 +2,10 @@
 
 <!--
 **hasanmohdkhan/hasanmohdkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+
+<h1>👨‍💻 Hi,I am Hasan Khan.</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<h2> 👷‍♂️ - I am an andriod developer.</h2>
+
+[![Hemanshu's github stats](https://github-readme-stats.vercel.app/api?username=hasanmohdkhan)](https://github.com/hasanmohdkhan)
+
+
+
