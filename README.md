@@ -1,34 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hasan Mohd Khan</h1>
+<h3 align="center">I am an andriod developer.</h3>
 
-<!--
-**hasanmohdkhan/hasanmohdkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmohdkhan&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmohdkhan" /> </p>
 
+<p align="left"> <a href="https://twitter.com/hasanzian" target="blank"><img src="https://img.shields.io/twitter/follow/hasanzian?logo=twitter&style=for-the-badge" alt="hasanzian" /></a> </p>
 
-<h1>👨‍💻 Hi,I am Hasan Khan.</h1>
+- 🔭 I’m currently working on **Android**
 
-- 🔭 I’m currently working on Android 
-- 🌱 I'm currently learning kotlin and AWS
-- 👯 I’m looking to collaborate on Android and AWS projects
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about AWS and Kotlin
-- 📫 [![alt text][1.2]][1] 
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Kotlin and AWS**
 
+- 👯 I’m looking to collaborate on **Android and AWS projects**
 
-<h2> 👷‍♂️ - I am an andriod developer.</h2>
+- 🤝 I’m looking for help with **AWS**
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+- 👨‍💻 All of my projects are available at [https://github.com/hasanmohdkhan](https://github.com/hasanmohdkhan)
 
-  [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: http://www.twitter.com/hasanzian
+- 💬 Ask me about **Android,Java,kotlin,Firebase and AWS**
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmohdkhan&layout=compact" alt="Hasan" /></p>
+- 📫 How to reach me **hasanzian@gmail.com**
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmohdkhan&theme=white-blue" alt="Hasan" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hasanzian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hasanzian" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6816307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6816307" height="30" width="40" /></a>
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanmohdkhan&show_icons=true" alt="Hasan" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanmohdkhan&show_icons=true&locale=en&layout=compact" alt="hasanmohdkhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanmohdkhan&show_icons=true&locale=en" alt="hasanmohdkhan" /></p>
 
