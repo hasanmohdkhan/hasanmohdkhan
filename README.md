@@ -25,7 +25,10 @@
   [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: http://www.twitter.com/hasanzian
 
-[![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=hasanmohdkhan)](https://github.com/hasanmohdkhan)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmohdkhan&layout=compact" alt="Hasan" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmohdkhan&theme=white-blue" alt="Hasan" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanmohdkhan&show_icons=true" alt="Hasan" /></p>
 
 
