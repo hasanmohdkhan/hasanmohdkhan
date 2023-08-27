@@ -28,7 +28,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/hasanmohdkhan/hasanmohdkhan/blob/master/android.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> 
-  <img src="https://iconape.com/wp-content/png_logo_vector/amazon-web-services-aws-logo.png" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src=https://github.com/hasanmohdkhan/hasanmohdkhan/blob/master/java.png" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <img src="https://iconape.com/wp-content/png_logo_vector/amazon-web-services-aws-logo.png" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <!---  java -->
+  <a href="https://www.java.com" target="_blank"> <img src="https://github.com/hasanmohdkhan/hasanmohdkhan/blob/master/java.png" alt="java" width="40" height="40"/> </a> 
+  <!-- kotlin -->
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <!--- linux -->
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/hasanmohdkhan/hasanmohdkhan/blob/master/linux.png" alt="linux" width="40" height="40"/> </a> 
    <!--- database -->
